@@ -1,0 +1,9 @@
+notification_email = [""]
+route_os = "PA-VM"
+route_os_version = "10.1.3"
+package_code = "VM100"
+core_count = 2
+term_length = 12
+dc1_code = "DA"
+dc2_code = "DC"
+account_name = "" // fabric account
